@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Bruno Pais
+
+I am a fullstack web developer with a background on the MERN Stack and I'm currently loking for my first job as a web developer.
+
+Meanwhile I am developing personal projects where I can show and practice my skills, such as learning new ones.
+
+
+📫 How to reach me:
+- email: bpais@outlook.pt
+- LinkedIn: https://www.linkedin.com/in/bruno-pais-webdev/
+
+
+
+⚡ Fun fact: Currently working as a bus driver
+
 <!--
 **BrunoMSPais/BrunoMSPais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
