@@ -11,10 +11,6 @@ Meanwhile I am developing personal projects where I can show and practice my ski
 - email: bpais@outlook.pt
 - LinkedIn: https://www.linkedin.com/in/bruno-pais-webdev/
 
-
-
-⚡ Fun fact: Currently working as a bus driver
-
 <!--
 **BrunoMSPais/BrunoMSPais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
